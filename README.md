@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sarah Assaad 👋
 
-<!--
-**sarahassaad140/sarahassaad140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's Student in Data Science & Artificial Intelligence
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- SQL
+- MATLAB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Electricity Consumption Forecasting
+- Credit Scoring & AI Portfolio Optimization
+- Brain Tumor Classification using SqueezeNet
+- The Text Psychologist
+- Loan Default Prediction
+
+## Contact
+📧 sarahassaad797@gmail.com
